@@ -1,0 +1,17 @@
+1.La liste de courses est fournie dans le fichier items.json
+2.Vous devez vous servir de cette liste pour lister les courses
+  dans le composant ShoppingList
+3.Les données doivent être affichée sous forme d'une liste à puces
+  ex :
+     Liste de courses
+     - pain : 0.95 €
+     - gel douche : 2.85 €
+     - cahier à spirales : 1.2 €
+  
+  Pour l'affichage, il y a 2 composants qui entrent en compte:
+  - ShoppingList
+  - Item
+
+  4.Dans le fichier app.tsx, une instance du composant ShoppingList est
+    utilisée, mais avec une propriété "title".Donc, vous devez identifier
+    les interfaces pour toutes les propriétés
